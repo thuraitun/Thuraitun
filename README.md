@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nuxt3**
 
-- 👨‍💻 All of my projects are available-(This is beta version. I will change portfoilo using react later) at [https://myportfolioprj.netlify.app/](https://myportfolioprj.netlify.app/)
+- 👨‍💻 All of my projects are available-(This is beta version. I will change portfoilo using react later) at [https://myportfolioprj.netlify.app/](https://react-portfolio-gold-chi.vercel.app/)
 
 - 💬 Ask me about **Laravel and Vue**
 
