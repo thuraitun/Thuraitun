@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Nuxt3**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available-(This is beta version. I will change portfoilo using react later) at [https://react-portfolio-gold-chi.vercel.app/](https://react-portfolio-gold-chi.vercel.app/)
 
