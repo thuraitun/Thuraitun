@@ -54,55 +54,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/thuraitun/movie-app"><b>🎬 movie-app</b></a><br/>
-      Movie browsing app built with React Native, Appwrite and the TMDB API.
-      <br/>
-      <code>React Native</code> <code>TypeScript</code> <code>Appwrite</code>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/thuraitun/nuxt-laravel"><b>🔗 nuxt-laravel</b></a><br/>
-      URL shortener with CRUD, auth, and route middleware on both frontend and backend.
-      <br/>
-      <code>Nuxt</code> <code>Laravel</code> <code>PHP</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/thuraitun/book-library"><b>📚 book-library</b></a><br/>
-      Book library built while learning React and Firebase.
-      <br/>
-      <code>React</code> <code>Firebase</code> <code>JavaScript</code>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/thuraitun/nest-drizzle"><b>⚡ nest-drizzle</b></a><br/>
-      NestJS API with Drizzle ORM on Neon Postgres.
-      <br/>
-      <code>NestJS</code> <code>Drizzle</code> <code>Neon</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/thuraitun/Burmese-Food"><b>🍜 Burmese-Food</b></a><br/>
-      Burmese food recipes dataset (JSON data from Ko Sann Lynn Htun).
-      <br/>
-      <code>JavaScript</code> <code>JSON</code>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/thuraitun?tab=repositories"><b>📦 View all repositories →</b></a><br/>
-      45 public repos: Laravel CRUDs, Vue experiments, React shops and more.
-      <br/>
-      <code>45</code> <code>repositories</code>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
