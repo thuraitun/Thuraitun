@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Currently working as a **Developer at MyanCare**
+- 🔭 Currently working as a **Software Engineer at Metateam Myanmar**
 - 🖥️ Deploying and maintaining apps on **Linux servers & AWS**
 - 🌱 Currently leveling up **AWS, NestJS, Drizzle ORM & React Native**
 - 💬 Ask me about **React, Vue, Laravel, TypeScript, Node.js, Linux or AWS**
